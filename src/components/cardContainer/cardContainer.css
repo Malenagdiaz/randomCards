@@ -1,0 +1,8 @@
+.card__principal__container {
+  width: 70%;
+  margin: 30px auto;
+  border: 2px solid #171a4a;
+  border-radius: 20px;
+  padding: 20px;
+  min-height: 500px;
+}

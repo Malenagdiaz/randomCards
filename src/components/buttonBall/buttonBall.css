@@ -1,0 +1,18 @@
+.btn-ball {
+  color: white;
+  background: #171a4a;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 20px;
+  display: flex;
+  font-size: 1rem;
+  align-items: center;
+  gap: 3px;
+  margin: 0 auto;
+  cursor: pointer;
+  font-family: "Lato", sans-serif;
+}
+
+.btn-ball:hover {
+  background-color: #343a8b;
+}
